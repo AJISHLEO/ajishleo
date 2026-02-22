@@ -181,6 +181,6 @@ I'm a Software Developer with hands-on experience in designing, developing and s
 
 ### 📞 Contact
 
--  **contact.ajishleo@gmail.com**
+-  **ajishleo@gmail.com**
 -  **+91 93442 87293**
 -  Bengaluru, Karnataka / Chennai, Tamil Nadu
