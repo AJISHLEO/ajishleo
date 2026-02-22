@@ -58,7 +58,7 @@ I'm a Software Developer with hands-on experience in designing, developing and s
     <tr>
       <td>2021 - 2024</td>
       <td>Kristu Jayanti College (Autonomous)</td>
-      <td>BCA - Bachelor of Computer Applications</td>
+      <td>BSc - Bachelor of Computer Science and Mathematics</td>
       <td>Bengaluru</td>
     </tr>
     <tr>
@@ -171,7 +171,7 @@ I'm a Software Developer with hands-on experience in designing, developing and s
 
 ###  Little About Me
 
--  I enjoy playing cricket and chess to unwind and sharpen my strategic thinking.
+-  I enjoy playing football and chess to unwind and sharpen my strategic thinking.
 -  I'm highly adaptable and enjoy collaborating with cross-functional teams to achieve a common goal.
 -  I believe a good pizza can solve almost any debugging session.
 -  I'm constantly learning new technologies and best practices in software development.
@@ -181,6 +181,6 @@ I'm a Software Developer with hands-on experience in designing, developing and s
 
 ### 📞 Contact
 
--  **ajishleo@gmail.com**
+-  **contact.ajishleo@gmail.com**
 -  **+91 93442 87293**
 -  Bengaluru, Karnataka / Chennai, Tamil Nadu
