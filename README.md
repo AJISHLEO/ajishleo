@@ -62,7 +62,7 @@ I'm a Software Developer with hands-on experience in designing, developing and s
       <td>Bengaluru</td>
     </tr>
     <tr>
-      <td>Sept 2024 - Present</td>
+      <td>Present</td>
       <td>COO24 Technologies</td>
       <td>Software Developer</td>
       <td>Chennai</td>
