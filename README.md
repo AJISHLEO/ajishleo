@@ -19,7 +19,7 @@ I'm a Software Developer with hands-on experience in designing, developing and s
 -  I’m currently working on **enterprise-grade web applications** using Angular, Node.js, and MongoDB.
 -  I’m currently learning **C# / .NET and ASP.NET Core** to strengthen my full-stack expertise.
 -  I’m looking to collaborate on **open-source projects and innovative web applications**.
--  Ask me about **Angular, Node.js and RESTful APIs.**.
+-  Ask me about **Angular, Node.js and RESTful APIs.**
 -  Know about my experiences: [View My Resume](https://drive.google.com/file/d/17-M2PKQ2EBs0g51yr7ZC_mOTqbCpa_Ct/view?usp=drivesdk)
 -  Fun fact: **I'm a quick learner who believes the best way to predict the future is to invent it.**
 
@@ -93,7 +93,7 @@ I'm a Software Developer with hands-on experience in designing, developing and s
 -  **Customer Relationship Management (CRM)**
   - <p align="justify">Built features for sales tracking, lead management and customer insights using <b>Angular, Node.js, MongoDB, and TypeScript</b>. Improved user experience and supported sales teams with intuitive dashboards and faster access to customer data.</p>
 
-- ⚙️ **Manufacturing Execution System (MES)**
+-  **Manufacturing Execution System (MES)**
   - <p align="justify">Implemented real-time monitoring tools and workflow optimization features using <b>Angular, Node.js, JavaScript and MongoDB</b>. Helped production teams track manufacturing processes more effectively and reduce delays on the shop floor.</p>
 
 -  **Field Force Management (Web & Mobile)**
@@ -123,7 +123,7 @@ I'm a Software Developer with hands-on experience in designing, developing and s
 
 ---
 
-### 🚀 My Tech Stack
+###  My Tech Stack
 
 #### Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
