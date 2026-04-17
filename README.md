@@ -20,7 +20,7 @@ I'm a Software Developer with hands-on experience in designing, developing and s
 -  I’m currently learning **C# / .NET and ASP.NET Core** to strengthen my full-stack expertise.
 -  I’m looking to collaborate on **open-source projects and innovative web applications**.
 -  Ask me about **Angular, Node.js and RESTful APIs.**
--  Know about my experiences: [View My Resume](https://drive.google.com/file/d/17-M2PKQ2EBs0g51yr7ZC_mOTqbCpa_Ct/view?usp=drivesdk)
+-  Know about my experiences: [View My Resume](https://drive.google.com/file/d/1bb_2gXIZ01TvlIPS-iTeYtLpuThWyfJ0/view?usp=drivesdk)
 -  Fun fact: **I'm a quick learner who believes the best way to predict the future is to invent it.**
 
 ---
